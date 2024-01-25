@@ -7,6 +7,8 @@ Team AccessVibe
 * Text-to-speech
 * Sign language-to-text
 
+![Alt text](C:\Users\shone\OneDrive\Pictures\Logo.png?raw=true "Title")
+
 ### My nested checklist
 - [x] Task 1
 - [ ] Task 2
