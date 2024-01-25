@@ -12,3 +12,11 @@ Team AccessVibe
   - [x] Subtask A
   - [ ] Subtask A
 - [x] Task 3
+
+
+| ### Feature 1	| ### Feature 2 | ### Feature 3 |
+|---------------|---------------|---------------|
+|   	          |   	      	  |   	      	  |
+|   	          |   	      	  |   	      	  |
+|   	          |    	      	  |   	        	|
+|               |               |               |
