@@ -2,9 +2,10 @@
 Team AccessVibe
 
 
-### My checklist
-- [ ] Conquer markdown
-- [ ] Procrastinate for the rest of the day
+### The checklist for our product: 📑
+* Speech-to-text
+* Text-to-speech
+* Sign language-to-text
 
 ### My nested checklist
 - [x] Task 1
