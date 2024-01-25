@@ -9,7 +9,7 @@ AccessVibe platform has been created with inclusivity in mind aiming to support 
 
 ## Our Features 📑
 
-|  **Speech-to-text**	                                        | **Text-to-speech**                                                                | **Sign language-to-text**                            |
+|  __Speech-to-text__                                         | __Text-to-speech__                                                                | __Sign language-to-text__                            |
 |-------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------|
 | Use the mic to interpret user <br/> message and display as text.| Convert written text into audible speech, using <br/> Google's speech engine| Interpret BSL using the user's camera and convert <br/> signs to text, which can be read out loud <br/> to increase accessibility.
 
