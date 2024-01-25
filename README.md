@@ -5,9 +5,9 @@ Team AccessVibe
 ### The checklist for our product: 📑
 * Speech-to-text
 * Text-to-speech
-* Sign language-to-textsdfs
+* Sign language-to-text
 
-![Screenshot](Logo.png)
+![AccessVibe logo](Logo.png=250*250)
 ![Alt text](C:\Users\shone\OneDrive\Pictures\Logo.png?raw=true "Title")
 
 ### My nested checklist
