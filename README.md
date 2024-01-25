@@ -1,4 +1,4 @@
-# AccessVibe
+# AccessVibe ![AccessVibe logo](Logonw.png)
 Team AccessVibe
 
 
@@ -7,8 +7,6 @@ Team AccessVibe
 * Text-to-speech
 * Sign language-to-text
 
-![AccessVibe logo](Logo.png=250*250)
-![Alt text](C:\Users\shone\OneDrive\Pictures\Logo.png?raw=true "Title")
 
 ### My nested checklist
 - [x] Task 1
