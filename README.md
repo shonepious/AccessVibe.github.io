@@ -1,6 +1,7 @@
-# AccessVibe ![AccessVibe logo](Logonw.png)
-Team AccessVibe
+# AccessVibe 
 
+  ![AccessVibe logo](Logo.png)
+  
 
 ### The checklist for our product: 📑
 * Speech-to-text
@@ -16,9 +17,9 @@ Team AccessVibe
 - [x] Task 3
 
 
-| ### Feature 1	| ### Feature 2 | ### Feature 3 |
-|---------------|---------------|---------------|
-|   	          |   	      	  |   	      	  |
-|   	          |   	      	  |   	      	  |
-|   	          |    	      	  |   	        	|
-|               |               |               |
+| ### Speech-to-text	| ### Text-to-speech  | ### Sign language-to-text |
+|---------------------|---------------------|---------------------------|
+|   	                |   	      	        |   	      	              |
+|   	                |   	      	        |   	      	              |
+|   	                |    	      	        |   	        	            |
+|                     |                     |                           |
