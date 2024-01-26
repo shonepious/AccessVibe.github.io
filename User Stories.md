@@ -1,7 +1,9 @@
 ## User stories: 📑
 ### Text to speech
 * As a native speaker, I can learn how to pronounce words​
-* 
+* As a visually impaired person, I can read articles and messages from friends
+* As a student with dyslexia, I can understand my study materials better.
+* As someone with mutism, I can simulate verbal communication.
 ### Speech to text
 * As a deaf person, I can get clarity of communication with others
 * As a non-native speaker, I can understand spoken content better with accurate text transcriptions
