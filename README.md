@@ -3,8 +3,7 @@
   ![AccessVibe logo](Logo.png)
   
 # Introduction 🖋️
-AccessVibe is a tech solution that enhances communication for individuals. Designed for inclusivity, it supports individuals with learning disabilities, limited motor skills, visual/hearing impairments.
-
+AccessVibe is a tech solution that enhances communication for individuals.
 AccessVibe platform has been created with inclusivity in mind aiming to support individuals, with learning disabilities, limited motor skills and visual impairments.
 
 ## Our Features 📑
