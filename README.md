@@ -17,9 +17,8 @@ AccessVibe platform has been created with inclusivity in mind aiming to support 
 ## Our Purpose 🏹
  _"As the family member of a hard of hearing person, I can understand my relatives better using sign language to text."_ ~ **Allen Humphry**
 
-## My nested checklist
-- [x] Task 1
-- [ ] Task 2
-  - [x] Subtask A
-  - [ ] Subtask A
-- [x] Task 3
+## Feature checklist
+- [x] Speech to text code / text to speech code.
+- [ ] Sign language to text to speech code.
+  - [x] Add code to localost server. 
+- [x] Update repository.
