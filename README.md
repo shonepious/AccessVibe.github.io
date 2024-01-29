@@ -19,6 +19,6 @@ AccessVibe platform has been created with inclusivity in mind aiming to support 
 
 ## Feature checklist
 - [x] Speech to text code / text to speech code.
-- [ ] Sign language to text to speech code.
-  - [x] Add code to localost server. 
+- [x] Sign language to text to speech code.
+  - [x] Add code to localhost server. 
 - [x] Update repository.
